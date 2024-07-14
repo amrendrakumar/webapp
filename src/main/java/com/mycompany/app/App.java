@@ -8,6 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World! checking POL scm" );
+        System.out.println( "Hello World!" );
+        System.out.println( "Checking GIt HUB change!" );
     }
 }
